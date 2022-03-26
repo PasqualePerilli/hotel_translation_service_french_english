@@ -11,3 +11,5 @@ In particular, the assignment was to:
 - Verify the correct functioning of the application
 
 
+Additional coding objectives:
+-  Obtain a 10/10 pylint score on machinetranslation/translator.py
